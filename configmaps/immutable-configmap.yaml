@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  company_name: "goodhabit.inc"
+kind: ConfigMap
+immutable: true
+metadata:
+  name: company-name-20251107

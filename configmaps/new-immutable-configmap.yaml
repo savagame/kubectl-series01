@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+data:
+  company_name: "ajgdpoaiejfaoiepwgfoi.inc"
+immutable: true
+metadata:
+  name: company-name-20251126
